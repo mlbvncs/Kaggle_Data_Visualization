@@ -2,7 +2,7 @@
 Notebooks and datas from Kaggle Data Visualization course
 
 ### Resumo 
-Como nem sempre é fácil decidir a melhor forma de contar a história por trás dos seus dados, dividimos os tipos de gráficos em três categorias principais para ajudar nessa tarefa.
+Como nem sempre é fácil decidir a melhor forma de contar a história por trás dos dados, os tipos de gráficos são divididos em três categorias principais para ajudar nessa tarefa.
 
 1. Tendências - Uma tendência é definida como um padrão de mudança.
 
